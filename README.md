@@ -22,7 +22,6 @@ This project showcases how HR data can be transformed into actionable insights u
 - Advanced **DAX measures** for cumulative and comparative analysis  
 - Clean, user-friendly layout  
 
-*(Insert a screenshot or GIF of your dashboard here)*  
 
 ---
 
